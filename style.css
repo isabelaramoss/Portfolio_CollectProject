@@ -482,7 +482,7 @@ html{
     display: none;
   }
 
-  .nav-burger /*, .services-container*/ {
+  .nav-burger{
     display: block;
   }
 
