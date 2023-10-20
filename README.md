@@ -2,7 +2,7 @@
 Website responsivo para uma empresa fictícia de construção. Realizei esse projeto em um período de 1 (uma) semana, com o objetivo de colocar em prática o que venho aprendendo nos últimos meses. 
 Para realizar este site, utilizei HTML, CSS e JavaScript.
 
-Link para site: 
+Link para site: https://collect-home-design.vercel.app/
 
 Créditos de ilustrações e fotos usadas:
 
